@@ -1,7 +1,7 @@
 #!/bin/sh
 # Prefix
 PREFIX=wp_
-DIR_PREFIX=
+DIR_PREFIX=wp_
 
 # Set a root url
 DOMAIN=https://local.wp.com
