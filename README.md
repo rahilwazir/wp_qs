@@ -24,14 +24,16 @@ Run from the parent directory where you want your wordpress installation.
 
 ```
 $ cd /home/user/html/
-$ wp_qs // run it
+$ wp_qs # run it
 ```
+
 After completion
+
 ```
 $ ls
-wp_57e28ac9b909c
+wp_57e28ac9b909c # Your WP directory
 ```
-Your wordpress is ready to serve, depends how you setup, vhost, subdirectory `http://localhost/wp_57e28ac9b909c`
+Your wordpress is now ready to serve, depends on how you have setup your environment either virtual host or subdirectory.
 
 **Note**: More options and customizations are coming..
 
