@@ -6,7 +6,6 @@ This script will download, configure/create (wp-config, mysql db), install your 
 
 ## Dependencies
 
-- PHP/MYSQL
 - [WP-CLI](https://github.com/wp-cli/wp-cli)
 
 ## Install
