@@ -1,3 +1,7 @@
+# \*Deprecation Notice\*
+
+Use [wp-installer](https://github.com/mattgrshaw/wp-installer) instead
+
 # wp_qs
 
 WordPress Quick Setup with help of WP-CLI.
@@ -38,4 +42,4 @@ Your wordpress is now ready to serve, depends on how you have setup your environ
 
 ## License
 
-MIT © [Rahil Wazir](https://github.com/rahilwazir)
+MIT © [Rahil Wazir](https://github.com/rahilwazir)*
